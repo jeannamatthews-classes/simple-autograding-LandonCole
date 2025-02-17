@@ -1,0 +1,1 @@
+1. I knew most of this about Github already. That is because I used github for CS142 and adv prog concepts in Java.
